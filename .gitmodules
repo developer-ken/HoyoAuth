@@ -1,0 +1,3 @@
+[submodule "HoyoQrAuth"]
+	path = HoyoQrAuth
+	url = https://github.com/developer-ken/HoyoQrAuth
